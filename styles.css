@@ -1,0 +1,305 @@
+
+
+.col-lg-10{
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+
+}
+
+#footer{
+  background-color: #B1D0E0;
+  text-align: center;
+  padding: 7% 13%;
+  border-radius: 10px;
+}
+
+#features{
+  position: relative;
+  z-index: 1;
+  padding: 5% 12%;
+  background-color: white;
+
+
+}
+
+#most{
+  font-family: cursive;
+  font-size: 3.5rem;
+  padding-top:20px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+}
+
+.coled{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 0px 20px;
+
+
+
+
+
+
+
+}
+
+.fas{
+  font-size: 80px;
+  color: #3C8DAD;
+
+
+
+
+}
+
+.fas:hover{
+  color: blue;
+  cursor: pointer;
+}
+
+.cols{
+  color:#8f8f8f;
+  font-size: 20px;
+  text-align: center;
+
+}
+
+#las:hover{
+
+  color: #2B2B2B;
+}
+
+.cols{
+  color:#8f8f8f;
+  font-size: 20px;
+  text-align: center;
+
+}
+
+.la{
+  font-size: 25px;
+  color: #2B2B2B;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+#las:hover{
+
+  color: #2B2B2B;
+}
+
+.la:hover{
+  cursor: pointer;
+}
+
+.back{
+  background-color: #30656b;
+
+}
+
+@media screen and (max-width: 991px){
+  .col-lg-2{
+    text-align: center;
+  }
+
+  .pri{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+      text-align: center;
+
+  }
+
+  .mai{
+    width:400px;
+  }
+
+  .mainphotos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+
+
+
+}
+
+
+.navbar-toggler{
+  background-color: grey;
+}
+
+span{
+  display: block;
+  height: 1px;
+  width: 13px;
+  border: 1px solid black;
+  margin: 4px 2px;
+}
+
+.navbar-toggler:hover{
+  background-color: white;
+
+}
+
+.main{
+  margin-bottom: 20px;
+  height: 140px;
+  width: 140px;
+}
+
+
+.mainphotos{
+  background-color: #CDDEFF;
+  padding: 9% 4%;
+  border-radius: 30px;
+
+}
+
+
+
+.mai{
+  text-align: center;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 35px;
+  margin-bottom: 35px;
+}
+
+.head{
+  background-color: #B1D0E0;
+}
+
+
+.pri{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+      text-align: center;
+
+  }
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+
+.hed{
+  font-family: 'Quintessential', cursive;
+  font-size: 3.5rem;
+  letter-spacing: 11px;
+  font-weight: bolder;
+  text-align: center;
+
+}
+
+.newheading{
+  text-align: center;
+  font-family: 'Supermercado One', cursive;
+
+  font-size: 4rem;
+  text-shadow: 2px 2px grey;
+  margin:10px auto;
+  background-color: #CDDEFF;
+  border-radius: 10px;
+  margin-bottom: 0px;
+}
+
+.price{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+
+
+
+  padding: 0px;
+  border: 1px solid grey;
+  margin: 10px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: 400px;
+  box-shadow: 2px 2px #B8DFD8;
+  border-radius: 15px;
+  background-color: #EDF6E5;
+
+
+}
+
+.btn-info{
+  width: 165px;
+}
+
+.details{
+  height: 201.797px;
+  width: 201.797px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #EFEFEF;
+
+}
+p{
+  text-align: center;
+}
+
+#pricing{
+  padding: 4% 4%;
+
+}
+
+
+.hep{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: bolder;
+  letter-spacing: 2px;
+
+  font-size: 23px;
+}
+
+.btn{
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.nav-link{
+  padding: 20px;
+  margin-left: 16px;
+  margin-right: 16px;
+  font-family: cursive;
+  font-weight: bold;
+  color: white;
+  font-size: 20px;
+}
+
+.nav-link:hover{
+  color: gold;
+}
+
+.navbar-brand{
+  margin-left: 30px;
+}
+
+nav{
+
+  display: flex;
+  align-items: center;
+}
+
+.shop{
+  margin-right: 30px;
+}
